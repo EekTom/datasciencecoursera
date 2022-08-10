@@ -1,0 +1,17 @@
+---
+title: "Data Sceintist's Toolbox"
+author: "Tom Eek"
+date: "2022-08-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Use the SSH to link between RStudio and GitHub.
+
+
+```{r}
+
+```
