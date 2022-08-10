@@ -9,5 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Data Scientist´s toolbox
+
 - Use SSH to connect github with rstudio.    
 - Go to the R Markdown Reference Guide to learn commands.  
+
+## R Programming
+
+
