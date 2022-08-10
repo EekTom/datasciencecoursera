@@ -1,5 +1,5 @@
 ---
-title: "Data Sceintist Toolbox"
+title: "Data Sceintist's Toolbox"
 author: "Tom Eek"
 date: "2022-08-09"
 output: html_document
